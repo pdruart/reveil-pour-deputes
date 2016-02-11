@@ -1,0 +1,19 @@
+{
+  "name": "ReveilPourDeputes",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Pierrick Druart (lead), Damien Hureau, Guillaume Hugot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pdruart/reveil-pour-deputes/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "lib/reveilPourDeputes.js",
+  "dependencies": {
+    "request": "^2.67.0",
+    "ical" : "^0.4.0"
+  }
+}
+
