@@ -1,4 +1,4 @@
-{ deputes : [
+{ "deputes" : [
 	{"nom":"Damien Abad","circonscription":"Ain","tagTwitter":"damienabad"},
 	{"nom":"Élie Aboud","circonscription":"Hérault","tagTwitter":"Elie_ABOUD"},
 	{"nom":"Bernard Accoyer","circonscription":"Haute-Savoie","tagTwitter":"BernardAccoyer"},
